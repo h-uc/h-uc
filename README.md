@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**h-uc/h-uc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="1337.gif" width="100%" alt="" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**h-uc**
+
+*the wind keeps moving even when i don't*
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=h-uc&color=grey&style=flat&label=)
+
+</div>
